@@ -7,7 +7,6 @@ Passionate about learning new technologies and contributing to open source ...
 <div align="center">
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=niylii&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niylii&show_icons=true&theme=dark)
 
 </div>
 
