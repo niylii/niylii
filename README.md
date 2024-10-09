@@ -10,4 +10,4 @@ Passionate about learning new technologies and contributing to open source ...
 
 </div>
 
-![Commits in the last year](https://github-readme-stats.vercel.app/api/commit/niylii?theme=dark)
+
