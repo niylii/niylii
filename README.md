@@ -3,12 +3,15 @@
 ##                        Hi there!!
                      
 Passionate about learning new technologies and contributing to open source ...
-
-<div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=niylii&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niylii&layout=compact&theme=dark)](https://github.com/niylii)
-
-</div>
+<table>
+  <tr>
+    <td>
+      <img src = " https://github-readme-streak-stats.herokuapp.com/?user=niylii&theme=dark" />
+    </td>
+    <td>
+      <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=niylii&layout=compact&theme=dark" />
+    </td>
+  </tr>
+</table>
 
 
