@@ -2,6 +2,8 @@
   ##                        Hi there!!
 <div align="center">
   Passionate about learning new technologies and contributing to open source ...
+
+  
   <table>
     <tr>
       <td>
