@@ -2,7 +2,7 @@
 # Hi there!!
 <div style="text-align: center;">
   <p>Passionate about learning new technologies and contributing to open source ...</p>
- <a href="https://github.com/niylii" style="display: inline-block; background-color: #702963; color: white; padding: 10px 20px; border: none; border-radius: 5px; text-decoration: none;">LET'S DO IT!!</a>
+ [![LET'S DO IT!!](https://img.shields.io/badge/LET'S%20DO%20IT!!-702963?style=for-the-badge&logo=appveyor&color=702963)](https://github.com/niylii)
   <br>
   <table style="margin: 0 auto;">
     <tr>
