@@ -2,6 +2,7 @@
 # Hi there!!
 <div align="center">
   <p>Passionate about learning new technologies and contributing to open source ...</p>
+  <button style="background-color: #702963; color: #301934; padding: 10px 20px; border: none; border-radius: 5px;">LET'S DOOO IT!!</button>
   <br>
   <table>
     <tr>
