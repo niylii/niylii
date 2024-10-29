@@ -2,7 +2,7 @@
 
 # [![LET'S DO IT!!](https://img.shields.io/badge/Hii%20there%20!!-702963?style=for-the-badge)](https://github.com/niylii)
 <div style="text-align: center;">
-  I find joy in learning new technologies and contributing to open source ...
+  I find joy in learning new technologies and contributing to open source yeyy ...
 </div>
 <div style="text-align: center;">
 <br>   
