@@ -17,3 +17,30 @@
     </tr>
   </table>
 </div>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Data Visualization Example</title>
+  <style>
+    .chart-container {
+      width: 100%;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+
+    .chart {
+      width: 100%;
+      height: 400px;
+    }
+  </style>
+</head>
+<body>
+  <div class="chart-container">
+    <h2>Data Trends Over Time</h2>
+    <div class="chart">
+      <img src="https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg" alt="Data Visualization" width="100%" height="100%">
+    </div>
+    <p>This chart shows the trends of several data points over time. The different colored lines represent the individual data series.</p>
+  </div>
+</body>
+</html>
