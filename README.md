@@ -9,7 +9,7 @@
    <table style="margin: 0 auto;">
     <tr>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=niylii&theme=nightowl&hide_border=false&exclude_days=Sun%2CSat" alt="ops"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=niylii&theme=nightowl&hide_border=false&exclude_days=Sun%2CSat" alt="opsyy"/>
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niylii&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact&text_color=eff7ff" alt= "language"/>
@@ -17,4 +17,3 @@
     </tr>
   </table>
 </div>
-![Snake animation](https://github.com/niylii/niylii-contribution-snake/blob/output/snake.svg)
