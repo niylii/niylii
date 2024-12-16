@@ -17,3 +17,4 @@
     </tr>
   </table>
 </div>
+![Snake animation](https://github.com/niylii/niylii-contribution-snake/blob/output/snake.svg)
