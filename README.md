@@ -1,8 +1,9 @@
 ![City](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmM2bWhhcm9iOW85Y2Fxb3BlMHExZ2dkcmRvajgwcDNocXVuOXdqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif)
 
-# [![LET'S DO IT!!](https://img.shields.io/badge/Hii%20there%20!!-702963?style=for-the-badge)](https://github.com/niylii)
+# [![HIII THERE!!](https://img.shields.io/badge/Hii%20there%20!!-702963?style=for-the-badge)](https://github.com/niylii)
 <div style="text-align: center;">
-  I find joy in learning new technologies and contributing to open source yeyy ...
+     I’m just a beginner in the world of software engineering, inspired by an incredible mentors who’ve shared their knowledge and guided me as I work toward becoming a full-stack developer. Cybersecurity is another passion I love exploring, it’s fun! Also, I’m just a chill girlie, balancing ambition with curiosity and savoring every step of this journey. (UwU) ✨
+
 </div>
 <div style="text-align: center;">
 <br>   
@@ -16,4 +17,10 @@
       </td>
     </tr>
   </table>
+  <div style="border: 1px solid black; padding: 10px; margin: 10px 0;">
+  <h3 style="margin: 0;">Little Practice Projects I Made:</h3>
+  <p>
+    <a href="https://github.com/yourusername/Printf_" target="_blank">Printf_</a>
+  </p>
+  </div>
 </div>
