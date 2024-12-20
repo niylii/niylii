@@ -2,7 +2,7 @@
 
 # [![HIII THERE!!](https://img.shields.io/badge/Hii%20there%20!!-702963?style=for-the-badge)](https://github.com/niylii)
 <div style="text-align: center;">
-     I’m just a beginner in the world of software engineering, inspired by an incredible mentors who’ve shared their knowledge and guided me as I work toward becoming a full-stack developer. Cybersecurity is another passion I love exploring, it’s fun! Also, I’m just a chill girlie, balancing ambition with curiosity and savoring every step of this journey. (UwU) ✨
+     I’m just a beginner in the world of software engineering, inspired by an incredible mentor who’ve shared their knowledge and guided me as I work toward becoming a full-stack developer. Cybersecurity is another passion I love exploring, it’s fun! Also, I’m just a chill girlie, balancing ambition with curiosity and savoring every step of this journey. (UwU) ✨
 
 </div>
 <div style="text-align: center;">
