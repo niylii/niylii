@@ -18,9 +18,9 @@
     </tr>
   </table>
   <div style="border: 1px solid black; padding: 10px; margin: 10px 0;">
-  <h3 style="margin: 0;">Little Practice Projects I Made:</h3>
+  <h3 style="margin: 0;">Little practice projects I made:</h3>
   <p>
-    <a href="https://github.com/niylii/Printf_" target="_blank">Printf_</a>
+    <a href="https://github.com/niylii/Printf_" target="_blank">simple version of prinf</a>
   </p>
   </div>
 </div>
