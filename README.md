@@ -2,12 +2,12 @@
 
 # [![HIII THERE!!](https://img.shields.io/badge/Hii%20there%20!!-702963?style=for-the-badge)](https://github.com/niylii)
 I'm on a mission to **master full-stack development** while diving deep into **cybersecurity**.  
-Inspired by an incredible mentor, I'm here to **write, debug, hack (ethically), and explore**—one line of code at a time.
+Inspired by an incredible mentor, I'm here to **write, debug, hack (ethically), and explore** one line of code at a time.
 
 ## What I'm up to:
 - Writing code that (probably) works  
-- Learning how to **secure** and **break** things (for science)  
-- Debugging my own existence
+- Learning how to **secure** and **break** things (for science obv)  
+- Debugging my own existence ...
 
 ## Endgame?  
 To become a **developer who builds things too strong to break… even by me**.
