@@ -1,6 +1,7 @@
 ![City](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmM2bWhhcm9iOW85Y2Fxb3BlMHExZ2dkcmRvajgwcDNocXVuOXdqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif)
 
 # [![HIII THERE!!](https://img.shields.io/badge/Hii%20there%20!!-702963?style=for-the-badge)](https://github.com/niylii)
+## About me:
 I'm on a mission to **master full-stack development** while diving deep into **cybersecurity**.  
 Inspired by an incredible mentor, I'm here to **write, debug, hack (ethically), and explore** one line of code at a time.
 
