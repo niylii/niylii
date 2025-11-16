@@ -2,21 +2,24 @@
 
 # [![HIII THERE!!](https://img.shields.io/badge/Hii%20there%20!!-702963?style=for-the-badge)](https://github.com/niylii)
 ## About me:
-I'm on a mission to **master software development** while diving deep into **cybersecurity**.  
-Inspired by an incredible mentor, I'm here to **write, debug, hack (ethically), and explore** one line of code at a time.
+I’m a digital engineering student carving my path through software development while exploring cybersecurity and a bit of ML on the side.
+Driven by curiosity (and a great mentor), I’m learning to build, debug, secure, and understand systems one C function at a time.
 
 ## What I'm up to:
-- Writing code that (probably) works  
-- Learning how to **secure** and **break** things (for science obv)  
-- Debugging my own existence ...
+- Writing code that sometimes works on the first try (rare achievement)
+- Studying how to protect systems and how attackers think
+- Breaking things on purpose, fixing them on accident
+- Training my brain like a very confused neural network
 
 ## Endgame?  
-To become a **developer who builds things too strong to break… even by me**.
+To become a developer who builds software so solid that even future-me can’t break it…
+(That’s the dream. The compiler disagrees.)
 
-                              . _Welcome to my little corner of controlled chaos (UwU) ✨._
+                              . _Welcome to my little corner of controlled chaos (UwU) ✨._ 
+                              
 <h2 style="margin: 0;">Little practice projects I made:</h2>
     <li><a href="https://github.com/niylii/Printf_" target="_blank">  simple version of printf</a></br></li>
-     <li><a href="https://github.com/niylii/simple_shell/"> simple version of shell</a></br></li>
+     <li><a href="https://github.com/niylii/simple_shell/"> simple version of shell (pretty much broken) </a></br></li>
 <div style="text-align: center;">
 <br>   
    <table style="margin: 0 auto;">
