@@ -15,7 +15,7 @@ Driven by curiosity (and a great mentor), I’m learning to build, debug, secure
 To become a developer who builds software so solid that even future-me can’t break it…
 (That’s the dream. The compiler disagrees.)
 
-                              . _Welcome to my little corner of controlled chaos (UwU) ✨._ 
+                              . _Welcome to my little corner of controlled chaos ✨._ 
                             
 <div style="text-align: center;">
 <br>   
